@@ -2,7 +2,7 @@
 
 ## 1. Problem Solving Through Programming in C - NPTEL Certification
 
-![NPTEL Certificate](./Problem%20Solving%20Through%20Programming%20In%20C.jpeg)
+
 
 ### About the Course:
 This course, offered by NPTEL and conducted by IIT Kharagpur, is aimed at introducing foundational programming concepts using the C programming language. It covered various essential topics including control structures, arrays, functions, pointers, structures, and dynamic memory allocation. The course also emphasized solving computational problems using efficient algorithms and proper programming techniques.
@@ -26,10 +26,10 @@ This course, offered by NPTEL and conducted by IIT Kharagpur, is aimed at introd
 - **Category:** Top 5% Performer
 
 ---
-
+![NPTEL Certificate](./Problem%20Solving%20Through%20Programming%20In%20C.jpeg)
 ## 2. Young Turks Round 1 Achievement
 
-![Young Turks Certificate](./young_turks_round_1_achievement.pdf)
+
 
 ### About the Young Turks Contest:
 The Naukri Campus Young Turks contest is a national-level skill competition organized by Naukri.com, offering prizes from a pool of ₹20 lakhs. It involves two rounds: a 60-minute aptitude test and a skill-based assessment in fields such as coding, data science, marketing, etc. The contest aims to recognize top talents across India and enhance participants' resumes with prestigious certificates.
@@ -44,7 +44,7 @@ The Naukri Campus Young Turks contest is a national-level skill competition orga
 - **Score:** 93.71%
 - **Date:** 11th October 2024
 - **Certified Name:** Alok Anand
-
+![Young Turks Certificate](./young_turks_round_1_achievement.jpg)
 ---
 
 ## Repository Structure:
